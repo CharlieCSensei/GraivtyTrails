@@ -1,1 +1,1 @@
-# GraivtyTrails
+# GravityTrails
